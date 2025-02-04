@@ -26,3 +26,4 @@ D:\Youssef\Projects\Routes_Course\C# _OOP\Exam_02\C43-G02-Exam02\Exam_02\obj\Deb
 D:\Youssef\Projects\Routes_Course\C# _OOP\Exam_02\C43-G02-Exam02\Exam_02\obj\Debug\net9.0\Exam_02.pdb
 D:\Youssef\Projects\Routes_Course\C# _OOP\Exam_02\C43-G02-Exam02\Exam_02\obj\Debug\net9.0\Exam_02.genruntimeconfig.cache
 D:\Youssef\Projects\Routes_Course\C# _OOP\Exam_02\C43-G02-Exam02\Exam_02\obj\Debug\net9.0\ref\Exam_02.dll
+D:\Youssef\Projects\Routes_Course\C# _OOP\Exam_02\C43-G02-Exam02\Exam_02\obj\Debug\net9.0\Exam_02.sourcelink.json
